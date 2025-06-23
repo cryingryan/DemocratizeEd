@@ -1,0 +1,3 @@
+# DemocratizeEd
+
+We are using R and Rstudio to evaluate educational data from internal systems. The goal is to make a platform so dynamic that schools across the state of NC can use the system with minimal data cleaning and processing. Instead, users add regularly formattedWe are using R and Rstudio to evaluate educational data from internal systems. The goal is to make a platform so dynamic that schools across the state of NC can use the system with minimal data cleaning and processing. Instead, users add regularly formatted data sources and all the linking and cleaning happens through embedded code. This should run on the end user's machine, not a server, to protect student data (FERPA). The output will be organized, clean data presented in interactive dashboards.
